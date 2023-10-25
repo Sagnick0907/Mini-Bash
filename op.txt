@@ -1,0 +1,39 @@
+>
+2023201008_main.cpp
+cd.cpp
+command_listfile.txt
+echo.cpp
+headers.h
+ls.cpp
+main
+makefile
+new2.txt
+-o
+op.txt
+output.txt
+pinfo.cpp
+pwd.cpp
+README.md
+redirection.cpp
+search.cpp
+sorted.txt
+total 600
+-rw-r--r-- 1 sagnick sagnick      0 Sep  4 17:07 >
+-rw-rw-r-- 1 sagnick sagnick  12831 Sep  5 21:06 2023201008_main.cpp
+-rw-rw-r-- 1 sagnick sagnick   3566 Sep  5 20:06 cd.cpp
+-rw-rw-r-- 1 sagnick sagnick    250 Sep 12 20:01 command_listfile.txt
+-rw-rw-r-- 1 sagnick sagnick    158 Sep  5 20:07 echo.cpp
+-rw-rw-r-- 1 sagnick sagnick   1014 Sep  3 20:22 headers.h
+-rw-rw-r-- 1 sagnick sagnick   8144 Sep  5 21:58 ls.cpp
+-rwxrwxr-x 1 sagnick sagnick 522248 Sep 12 19:51 main
+-rw-rw-r-- 1 sagnick sagnick    109 Sep  3 20:08 makefile
+-rw-r--r-- 1 sagnick sagnick     19 Sep  2 23:19 new2.txt
+-rw-r--r-- 1 sagnick sagnick      7 Sep  2 23:13 -o
+-rw-r--r-- 1 sagnick sagnick    186 Sep 12 20:00 op.txt
+-rw-r--r-- 1 sagnick sagnick     33 Sep  5 22:00 output.txt
+-rw-rw-r-- 1 sagnick sagnick   3242 Sep  5 20:33 pinfo.cpp
+-rw-rw-r-- 1 sagnick sagnick    306 Sep  4 18:30 pwd.cpp
+-rw-rw-r-- 1 sagnick sagnick  11205 Sep  5 21:01 README.md
+-rw-rw-r-- 1 sagnick sagnick   3096 Sep  5 20:44 redirection.cpp
+-rw-rw-r-- 1 sagnick sagnick   1340 Sep  4 18:27 search.cpp
+-rw-r--r-- 1 sagnick sagnick      0 Sep  2 22:46 sorted.txt

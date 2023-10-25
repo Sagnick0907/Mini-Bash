@@ -1,0 +1,20 @@
+ls
+gedit &
+pinfo
+pinfo 1
+pinfo 0
+pinfo 6882
+search 2023201008_A1_Q3.cpp
+search asdasd.txt
+cat < output.txt
+pwd
+cd 2023201008_Assignment2
+pwd
+ls
+cat < output.txt
+ls > op.txt
+cat < op.txt
+ls -l >> op.txt
+cat < op.txt
+history
+history 5
